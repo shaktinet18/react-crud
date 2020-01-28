@@ -1,7 +1,7 @@
 # react-crud
 react-crud
 
-# [react-redux-crud](https://github.com/tb/react-crud)
+# [react-crud](https://github.com/shaktinet18/react-crud)
  
 React + Redux CRUD demo
  
